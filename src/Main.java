@@ -123,7 +123,6 @@ public class Main {
 */
 
 
-
 /*
         ArrayList<String> a1 = new ArrayList<String> ();
         a1.add("1");
@@ -147,11 +146,11 @@ public class Main {
         int[] b = new int[]{2};
         int len = 3;
         int[] c = new int[len];
-        for (i = 0; i < b.)
+       // for (i = 0; i < b.)
+
+        
 
         System.out.println(Arrays.toString(c));
-
-
 
 
 
